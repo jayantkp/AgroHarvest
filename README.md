@@ -10,4 +10,6 @@ I tried out several algorithms and compared their accuracy. Finally I found that
 DATA SOURCE:
 [CROP RECOMMENDATION DATASET](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset)
 
+Original Source of the Project: [GITHUB](https://github.com/Gladiator07/Harvestify)
+
 Contact Me: [LinkedIn](https://www.linkedin.com/in/jayanta-kumar-pal-967240172/)
