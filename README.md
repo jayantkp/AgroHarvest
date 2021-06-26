@@ -12,4 +12,4 @@ DATA SOURCE:
 
 Original Source of the Project: [GITHUB](https://github.com/Gladiator07/Harvestify)
 
-Contact Me: [LinkedIn](https://www.linkedin.com/in/jayanta-kumar-pal-967240172/)
+**Thanks!!**
