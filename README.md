@@ -1,4 +1,6 @@
-**AGROHARVEST**
+<h2> AGROHARVEST </h2>
+
+![](agroharvest.jpg)
 
 Farming is one of the major sectors that influences a country’s economic growth.
 
