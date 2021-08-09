@@ -1,4 +1,4 @@
-<h2> AGROHARVEST </h2>
+<h2> AGROHARVES </h2>
 
 ![](agroharvest.jpg)
 
